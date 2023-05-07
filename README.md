@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">A passionate backend developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **BIGM ERM**
+- 🔭 I’m currently working on **SOFTZINO TECHNOLOGY**
 
 - 🌱 I’m currently learning **Vuejs**
 
