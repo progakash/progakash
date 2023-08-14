@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **SOFTZINO TECHNOLOGY**
 
-- 🌱 I’m currently learning **Vuejs**
+- 🌱 I’m currently learning **Docker**
 
 - 📫 How to reach me **akash.ju.msc@gmail.com**
 
